@@ -2,7 +2,7 @@
 Accelerometer - shake to get a result, button - easy result, usb-c port, power supply - common battery types, display - what kind, case, chip - with true randomizer functionality and local storage.
 
 research:  
-Accelerometer (how to enable it, how are shakes determined, possible auto shut off functionality, wiring), button (responsivity), 
+Accelerometer (how to enable it, how are shakes determined, possible auto shut off functionality, wiring), button (responsivity), display (taller one to fit work with the case)
 
 sources:
 https://github.com/lds133/pico_8ball  
